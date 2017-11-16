@@ -3,7 +3,7 @@
 
 int main (){
 
-	printf("the world is a vampire\n"); /* llamada a la funcion */ 
+	printf("the world is a vampire\n"); /* llamada a la funcion */
 
 	return EXIT_SUCCESS;
 }
